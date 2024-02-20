@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-// Diffculty rank : 900
+// Difficulty rank : 900
 
 void decoding()
 {
